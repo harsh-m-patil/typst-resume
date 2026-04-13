@@ -58,10 +58,10 @@
   company: "Swiggy",
   dates: dates-helper(start-date: "Oct 2025", end-date: "Present"),
 )
-- Built automation workflows using n8n, reducing task completion time by 95%
-- Developed custom MCP integrations for n8n, enabling AI-assisted workflow automation
-- Implemented CI/CD pipelines on AWS and wrote end-to-end tests for deployment reliability
-- Collaborating with AI Infrastructure & Governance team on enterprise-scale AI solutions
+- Built custom agents for repetitive tasks, reducing task completion time by 95%.
+- Implemented CI/CD pipelines on AWS and wrote end-to-end tests for deployment reliability.
+- Managed production LLM infrastructure across providers as part of the ai-infra team.
+- Improved AI secret ingestions across multiple services eleminating the need to manually ingest them.
 
 #work(
   title: "Backend Developer Intern",
@@ -69,10 +69,9 @@
   company: "Workzen",
   dates: dates-helper(start-date: "Aug 2025", end-date: "Sep 2025"),
 )
-- Engineered backend features in a production-grade Next.js app with Supabase PostgreSQL, ensuring scalability and reliability
+- Engineered backend features in a production-grade Next.js app with PostgreSQL, ensuring scalability and reliability
 - Designed and maintained REST APIs to support product functionality and service integration
 - Fixed a critical production bug, reducing downtime by 40% and improving stability
-- Collaborated in a team of 10 developers using Git/GitHub for version control, code reviews, and agile practices
 
 == Projects
 
@@ -108,7 +107,7 @@
 
 == Skills
 
-- *Languages*: Java, JavaScript, TypeScript
+- *Languages*: Java, JavaScript, TypeScript, Python
 - *Frameworks*: Node.js, Hono, tRPC, Next.js, React.js, TailwindCSS
 - *Databases*: PostgreSQL, MySQL, MongoDB, Redis
-- *Tools/Technologies*: Git, GitHub, Docker, AWS
+- *Tools/Technologies*: Git, GitHub, Docker, AWS, RAG, AI Agents
